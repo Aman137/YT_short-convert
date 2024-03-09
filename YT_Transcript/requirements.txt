@@ -1,0 +1,4 @@
+youtube_transcript_api
+google_generativeai
+python_dotenv
+pathlib
